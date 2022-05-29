@@ -10,6 +10,7 @@
 ![living](https://img.shields.io/badge/living-Bokaro,Jharkhand-whitesmoke)
 
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-rgb(17,132,7))
+
 =============================
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/anupam-kumar-490489218/)
