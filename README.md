@@ -5,9 +5,9 @@
 
 ### Can Connect with me on :
 
-![age](https://img.shields.io/badge/age-23-blue)
-![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
-![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+![age](https://img.shields.io/badge/age-23-goldenrod)
+![living](https://img.shields.io/badge/living-Bokaro,Jharkhand-whitesmoke)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-green)
 =============================
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/anupam-kumar-490489218/)
