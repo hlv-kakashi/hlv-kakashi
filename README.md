@@ -5,7 +5,7 @@
 
 ### Can Connect with me on :
 
-![age](https://img.shields.io/badge/age-23-#f79431)
+![age](https://img.shields.io/badge/age-23-rgb(247,148,49))
 ![living](https://img.shields.io/badge/living-Bokaro,Jharkhand-whitesmoke)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-green)
 =============================
